@@ -40,6 +40,10 @@ npm install react-icons framer-motion
 ```
 
 
+[Fonts Google](https://fonts.google.com/specimen/Poppins)
+
+
+<hr>
 
 |Author: | [IvanC_Dev](https://github.com/ivandacruz) | :heart: |
 |--------|--------------------------------------------|---------|
