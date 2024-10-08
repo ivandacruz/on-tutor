@@ -43,6 +43,14 @@ npm install react-icons framer-motion
 [Fonts Google](https://fonts.google.com/specimen/Poppins)
 
 
+[React CountUp](https://www.npmjs.com/package/react-countup)
+
+```sh
+
+npm install react-countup 
+
+```
+
 <hr>
 
 |Author: | [IvanC_Dev](https://github.com/ivandacruz) | :heart: |
