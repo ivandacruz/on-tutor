@@ -6,7 +6,7 @@ const NumberCounter = () => {
         <div className="bg-secondary text-white py-12">
             <div className="container grid grid-cols-2 md:grid-cols-4 gap-8">
                 <div className="flex flex-col items-center justify-center">
-                    <p>
+                    <p className="text-3xl font-semibold">
                         <CountUp 
                             start={0} 
                             end={898} 
@@ -18,7 +18,7 @@ const NumberCounter = () => {
                     <p>Expert tutors</p>
                 </div>
                 <div className="flex flex-col items-center justify-center">
-                    <p>
+                    <p className="text-3xl font-semibold">
                         <CountUp
                             end={20000}
                             separator=","
@@ -28,10 +28,10 @@ const NumberCounter = () => {
                             scrollSpyOnce={true}
                         />
                     </p>
-                    <p>Expert tutors</p>
+                    <p>Hours content</p>
                 </div>
                 <div className="flex flex-col items-center justify-center">
-                    <p>
+                    <p className="text-3xl font-semibold">
                         <CountUp
                             end={298}
                             duration={3}
@@ -39,10 +39,10 @@ const NumberCounter = () => {
                             scrollSpyOnce={true} 
                         />
                     </p>
-                    <p>Expert tutors</p>
+                    <p className="items-center">Subject and courses</p>
                 </div>
                 <div className="flex flex-col items-center justify-center">
-                    <p>
+                    <p className="text-3xl font-semibold">
                         <CountUp
                             end={72878}
                             separator=","
@@ -52,7 +52,7 @@ const NumberCounter = () => {
                             scrollSpyOnce={true} 
                         />
                     </p>
-                    <p>Expert tutors</p>
+                    <p>Active students</p>
                 </div>
             </div>
         </div>
