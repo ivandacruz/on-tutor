@@ -33,7 +33,8 @@ const App = () => {
       <Hero />
       <NumberCounter />
       <WhyChooseUs />
-      <Banner />
+      <Banner {...BannerData} />
+      <Banner {...BannerData2} reverse={true} />
     </main>
   );
   
