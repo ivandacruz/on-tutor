@@ -51,6 +51,19 @@ npm install react-countup
 
 ```
 
+[React Slick](https://www.npmjs.com/package/react-slick)
+
+```sh
+
+npm install slick-carousel --save
+
+#or
+
+npm install slick-carousel
+
+```
+
+
 <hr>
 
 |Author: | [IvanC_Dev](https://github.com/ivandacruz) | :heart: |
