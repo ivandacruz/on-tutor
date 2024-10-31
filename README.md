@@ -53,11 +53,13 @@ npm install react-countup
 
 [React Slick](https://www.npmjs.com/package/react-slick)
 
+> install
+
 ```sh
 
-npm install slick-carousel --save
+npm i react-slick 
 
-#or
+    # and
 
 npm install slick-carousel
 
